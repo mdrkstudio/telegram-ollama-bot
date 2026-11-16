@@ -4,7 +4,10 @@
 
 Автор: [Марк / MDRK Studio](https://mdrkstudio.ru).
 
-![Пример ответа Telegram Ollama Bot в режиме CLI](docs/demo.gif)
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="docs/demo.gif">
+  <img src="docs/demo-poster.png" alt="Пример ответа Telegram Ollama Bot в режиме CLI" width="800" height="450">
+</picture>
 
 ## Возможности
 
